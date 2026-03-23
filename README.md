@@ -85,11 +85,11 @@ AIML-Internship-Projects-Elevate-Labs
 
 ## 📊 Learning Outcomes  
 
-- Practical implementation of Machine Learning & Deep Learning models  
-- Experience with Natural Language Processing tasks  
-- Understanding of recommendation systems and time-series forecasting  
-- Hands-on exposure to model deployment using Streamlit and Flask  
-- Improved project documentation and GitHub portfolio development  
+- Practical implementation of Machine Learning & Deep Learning models.  
+- Experience with Natural Language Processing tasks.  
+- Understanding of recommendation systems and time-series forecasting.  
+- Hands-on exposure to model deployment using Streamlit and Flask.  
+- Improved project documentation and GitHub portfolio development.  
 
 ---
 
